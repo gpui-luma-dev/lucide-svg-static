@@ -558,7 +558,6 @@ pub const fn path_data(icon: Icon) -> &'static str {
         Icon::CopyX => "M4 16a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2;m12.5 12.5 5 5;m12.5 17.5 5-5",
         Icon::Copy => "M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2",
         Icon::Copyleft => "M9.17 14.83a4 4 0 1 0 0-5.66",
-        Icon::Copyright => "M14.83 14.83a4 4 0 1 1 0-5.66",
         Icon::CornerDownLeft => "M20 4v7a4 4 0 0 1-4 4H4;m9 10-5 5 5 5",
         Icon::CornerDownRight => "m15 10 5 5-5 5;M4 4v7a4 4 0 0 0 4 4h12",
         Icon::CornerLeftDown => "m14 15-5 5-5-5;M20 4h-7a4 4 0 0 0-4 4v12",
