@@ -1,4 +1,4 @@
-//! Generated Lucide catalog. Source version: 1.80.0
+//! Generated Lucide catalog. Source version: 1.81.0
 
 pub mod icons;
 pub mod paths;
